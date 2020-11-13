@@ -1,0 +1,48 @@
+body {
+    margin: 0;
+}
+
+.container {
+    padding: 90px 15px;
+    margin: 0 auto;
+}
+
+header {
+    background-color: #008000;
+    height: 90px;
+    width: 100%;
+    opacity: 0.8;
+    position: fixed;
+    top: 0;
+}
+
+.header-logo {
+    float: left;
+    margin: 0px 30px;
+    color: #ffffff;
+    font-size: 60px;
+}
+
+.header-list {
+    float: right;
+    color: #ffffff;
+}
+
+li {
+    margin: 30px 50px;
+    float: left;
+    list-style: none;
+}
+
+.main {
+    background-color: #c0ffc0;
+    height: 1200px;
+}
+
+.introduction {
+    float: left;
+}
+
+.main img {
+    float: right;
+}
