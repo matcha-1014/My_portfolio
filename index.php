@@ -2,30 +2,36 @@
 <html>
   <head>
     <meta charset="utf-8">
-    <title>MyPage</title>
+    <title>Matcha's Portfolio</title>
     <link rel="stylesheet" href="stylesheet.css">
   </head>
 
   <body>
     <header>
-      <div class="header-logo">
-        井上昌彦のホームページ
-      </div>
-      <div class="header-list">
-        <ul>
-          <li>自己紹介</li>
-          <li>キャリア</li>
-        </ul>
+      <div class="container">
+        <div class="header-left">
+            <h1>Matcha's Portfolio</h1>
+        </div>
+        <div class="header-right">
+            <ul>
+            <li>Introduction</li>
+            <li>Carrer</li>
+            </ul>
+        </div>
       </div>
     </header>
 
-    <div class="main">
+    <div class="intro-wrapper">
       <div class="container">
-        <div class="introduction">
-          <h1>こんにちは!</h1>
-          <h2>井上昌彦のホームページへようこそ！</h2>
-        </div>
-        <img src="../img/bungee.jpg" width="768" height="512">
+        <h2>自己紹介</h2>
+        <h3>名前: matcha</h3>
+        <h3>年齢: 24</h3>
+      </div>
+    </div>
+
+    <div class="carrer-wrapper">
+      <div class="container">
+        <h2>キャリア</h2>
       </div>
     </div>
   </body>
