@@ -16,10 +16,17 @@
             <ul>
             <li>Introduction</li>
             <li>Carrer</li>
+            <li>Contact</li>
             </ul>
         </div>
       </div>
     </header>
+
+    <div class="pict-wrapper">
+      <div class="container">
+        <img src="../img/top_page.jpg" height="512", width="768">
+      </div>
+    </div>
 
     <div class="intro-wrapper">
       <div class="container">
@@ -38,5 +45,6 @@
         <h3>2020年: ProgateでHTML & CSS、JavaScript、Gitを学習。現在レベル65。</h3>
       </div>
     </div>
+
   </body>
 </html>
