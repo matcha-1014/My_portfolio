@@ -4,6 +4,7 @@
     <meta charset="utf-8">
     <title>Matcha's Portfolio</title>
     <link rel="stylesheet" href="stylesheet.css">
+    <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
   </head>
 
   <body>
@@ -46,5 +47,16 @@
       </div>
     </div>
 
+    <div class="contact-wrapper">
+      <div class="container">
+        <h2 class="section-title">コンタクト</h2>
+        <div class="btn-wrapper">
+          <h3>Twitter</h3>
+          <a href="https://twitter.com/matchaEngineer", target="_brank", class="btn twitter">
+            <span class="fa fa-twitter"></span>フォローはこちらから
+          </a>
+        </div>
+      </div>
+    </div>
   </body>
 </html>
